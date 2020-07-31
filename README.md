@@ -1,6 +1,6 @@
 ### Learning Golang
 ---
-*Go Crash Course*
+**Go Crash Course #1**
 - Hello World
 - Variable & Types
 - Packages
