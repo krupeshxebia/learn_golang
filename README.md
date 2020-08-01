@@ -24,7 +24,7 @@ GET : `http://localhost:8000/api/books`
 GET : `http://localhost:8000/api/books/{id}`
 
 **Add New Book**<br>
-POST      : `http://localhost:8000/api/books`
+POST      : `http://localhost:8000/api/books`<br>
 JSON Body : 
 ```json
 {
@@ -41,7 +41,7 @@ JSON Body :
 DELETE : `http://localhost:8000/api/books/{id}`
 
 **Update A Book From ID**<br>
-PUT       : `http://localhost:8000/api/books/{id}`
+PUT       : `http://localhost:8000/api/books/{id}`<br>
 JSON Body : 
 ```json
 {
