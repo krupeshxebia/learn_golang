@@ -17,14 +17,14 @@
 
 ### 📁 CRUD REST API #1
 
-**GET All Books**<br><br>
+**GET All Books**<br>
 GET : `http://localhost:8000/api/books`
 
-**Get Single Book From ID**<br><br>
+**Get Single Book From ID**<br>
 GET : `http://localhost:8000/api/books/{id}`
 
 **Add New Book**<br><br>
-POST      : `http://localhost:8000/api/books`<br><br>
+POST      : `http://localhost:8000/api/books`<br>
 JSON Body : 
 ```json
 {
@@ -41,7 +41,7 @@ JSON Body :
 DELETE : `http://localhost:8000/api/books/{id}`
 
 **Update A Book From ID**<br>
-PUT       : `http://localhost:8000/api/books/{id}`<br><br>
+PUT       : `http://localhost:8000/api/books/{id}`<br>
 JSON Body : 
 ```json
 {
