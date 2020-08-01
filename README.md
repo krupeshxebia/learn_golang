@@ -1,6 +1,6 @@
 ## Learning Golang
 
-### Go Crash Course #1
+### 📁 Go Crash Course #1
 - Hello World
 - Variable & Types
 - Packages
@@ -15,7 +15,7 @@
 - Interfaces
 - Web
 
-### CRUD REST API
+### 📁 CRUD REST API
 
 - **GET All Books**
 GET : `http://localhost:8000/api/books`
