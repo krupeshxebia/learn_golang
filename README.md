@@ -26,7 +26,7 @@ GET : `http://localhost:8000/api/books/{id}`
 - **Add New Book**
 POST      : `http://localhost:8000/api/books`
 JSON Body : 
-`
+```json
 {
     "isbn" : "123456",
     "title" : "Book Three",
@@ -35,7 +35,7 @@ JSON Body :
         "lastname" : "Williams"
     }
 }
-`
+```
  
 - **Delete A Book From ID**
 DELETE : `http://localhost:8000/api/books/{id}`
@@ -43,7 +43,7 @@ DELETE : `http://localhost:8000/api/books/{id}`
 - **Update A Book From ID**
 PUT       : `http://localhost:8000/api/books/{id}`
 JSON Body : 
-`
+```json
 {
     "isbn" : "123456",
     "title" : "Updated Title",
@@ -52,7 +52,7 @@ JSON Body :
         "lastname" : "Thomson"
     }
 }
-`
+```json
  
  
  
